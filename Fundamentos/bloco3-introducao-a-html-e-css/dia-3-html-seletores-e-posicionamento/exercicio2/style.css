@@ -5,10 +5,11 @@
   
   .goomba {
     width: 100px;
-    position: left;
+    position: absolute;
   }
   
   .baloon {
+      position:absolute
   
   }
   
